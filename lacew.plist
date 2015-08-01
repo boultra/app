@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.lacew.com/app/lacew.ipa</string>
+					<string>http://uploads.lacecdn.com/app/lacew2015080100.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.lacew.com/app/lacewIcon.png</string>
+					<string>http://www.lacew.com.cn/app/ios/lacewIcon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.lacew.com/app/lacewIcon.png</string>
+					<string>http://www.lacew.com.cn/app/ios/lacewIcon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.lacew.app</string>
+				<string>com.lacew.app.ios8-37278104</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
